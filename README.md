@@ -1,2 +1,1 @@
-# jsonpath
-JSONPath command-line tool written in Swift
+A command-line tool for manipulating JSON using JSONPath.
